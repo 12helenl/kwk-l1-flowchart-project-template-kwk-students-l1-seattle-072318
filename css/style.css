@@ -1,0 +1,127 @@
+/*////////////// Fonts //////////////*/
+
+/* link the web font used for the level 1 heading here */
+*{
+ font-family: 'Archivo Narrow', sans-serif;
+ color:white;
+}
+/*////////// Global Styles //////////*/
+
+body {
+	background: #17202A;
+	font-size: 100%;
+	font-family: 'Times New Roman', serif; 
+}
+
+/*.wrapper {*/
+/*	width: 960px;*/
+/*	margin: 0 auto;*/
+/*	background: #fff;*/
+/*	padding: 0 45px 20px;*/
+/*}*/
+
+/* Write all remaining styles here */
+
+.top-header {
+  font-size: 500%
+}
+
+.animal-header{
+  font-size: 500%
+}
+
+.environment-header{
+  font-size: 500%
+}
+
+.humanity-header{
+  font-size: 500%
+}
+
+}
+.header-below {
+  font-size: 300%
+}
+
+.top-header {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+    
+     .header-below {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.animal-header {
+    position: absolute;
+    top: 125%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.environment-header {
+    position: absolute;
+    top: 220%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.humanity-header{
+    position: absolute;
+    top: 310%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.enter_name{
+  font-family: 'Archivo Narrow', sans-serif;
+ color:white;
+}
+
+/*.earth{*/
+/*  transition: all 0.5s ease;*/
+/*  background: #aaa;*/
+/*  padding: 50px;*/
+/*}*/
+
+/*.image1{*/
+/*  transition: all 0.5s ease;*/
+/*  background: #aaa;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image1:hover {*/
+/*  background: #555;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image2{*/
+/*  transition: all 0.5s ease;*/
+/*  background: #aaa;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image2:hover {*/
+/*  background: #555;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image3{*/
+/*  transition: all 0.5s ease;*/
+/*  background: #aaa;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image3:hover {*/
+/*  background: #555;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image4{*/
+/*  transition: all 0.5s ease;*/
+/*  background: #aaa;*/
+/*  padding: 50px;*/
+/*}*/
+/*.image4:hover {*/
+/*  background: #555;*/
+/*  padding: 50px;*/
+/*}*/
