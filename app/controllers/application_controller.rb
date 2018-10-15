@@ -1,4 +1,4 @@
-
+require 'sinatra'
 require './config/environment'
 
 class ApplicationController < Sinatra::Base
@@ -8,15 +8,13 @@ class ApplicationController < Sinatra::Base
   end
 
   get '/' do
-    return erb :index
+    erb :three_sections
   end
   
   post '/' do
-    @the_user = params[:user]
-    return html :three_sections
+    # @the_user = params[:user]
+    return erb :three_sections
   end
-
-
 
 end
 
